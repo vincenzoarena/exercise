@@ -7,3 +7,4 @@ to practice more and getting the concepts clear
 Let's make a war! 😈
 here is aika
 I need some strawberry ice cream... Would you also like some?
+here is aika! Lets work together!
