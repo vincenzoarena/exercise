@@ -1,0 +1,25 @@
+body {
+    color: #01403A;
+    background-color: #02735E;
+    text-align: center;
+}
+
+h1 {
+    background-color: #025951;
+}
+
+div {
+    background-color: #D9805F;
+}
+
+ul {
+    background-color: #D9C6B0;
+}
+
+ol {
+    background-color: #D9C6B0;
+}
+
+img {
+    width: 50rem;
+}
