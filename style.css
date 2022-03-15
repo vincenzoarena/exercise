@@ -1,0 +1,18 @@
+body{
+    background-color: #DDFBC8;
+}
+h1{
+   background-color: darkorange;
+    text-align: center;
+    color:darkmagenta;
+  
+}
+nav ul li{
+    display:inline;
+    padding:5rem;
+    color:darkblue;
+    
+}
+nav ul li a{
+text-decoration: none;
+}
